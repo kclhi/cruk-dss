@@ -1,0 +1,20 @@
+repo_name: kclhi/cruk-dss
+report_id: 92b30c7bd115923f649b0356814e8fef
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-11T18:36:12+00:00'
+requested_by: martinchapman
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/kclhi/cruk-dss
+  detection_source: Repo Metadata
