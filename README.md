@@ -1,7 +1,10 @@
 This archive contains documentation files relating to the CRUK DSS software (for both the feasibility study and video study versions). 
+
 Taken together, these files explain how to install and use the DSS.
 
 There are two main types of files: PDF documentation files and video tutorial files.
+
+### PDF documentation files
 
 The contents of the PDF documentation files are as follows:
 
@@ -11,7 +14,9 @@ The contents of the PDF documentation files are as follows:
 - The **DSS Install -  Alternative Configuration - Shortcuts Creation.pdf** (about 3 pages long) explains how to create Desktop, Start menu and taskbar shortcuts to launch the DSS as an alternative way to start the DSS, should the DSS fail to launch properly (i.e stall) when started directly using the SystmOne toolbar button configured based on the instructions of the **DSS Install - SystmOne Configuration.pdf** guide
 - The **DSS_Functionalities.pdf** file (about 3 pages long) gives an overview of the main functionalities of the DSS 
 - The **CRUK-DSS_Uninstallation_Summary.pdf** file (about 1 page long) explains how to remove the DSS from your system, should you wish to.
-- The **cruk-dss_documentation_version_march2023.compressed.pdf** file (about 44 pages long) is the complete DSS manual (i.e it gives a thorough explanation of how to install and configure the DSS to work with SystmOne and describes all the various functionalities the DSS has in detail). 
+- The **cruk-dss_documentation_version_march2023.compressed.pdf** file (about 44 pages long) is the complete DSS manual (i.e it gives a thorough explanation of how to install and configure the DSS to work with SystmOne and describes all the various functionalities the DSS has in detail).
+
+### Video tutorial files
 
 The contents of the video tutorial files are as follows:
 
